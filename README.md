@@ -1,6 +1,6 @@
 ## Hi, Seb here! I'm a behavioral data scientist interested in tech + human behavior ⚡:brain:
 
-I'm psychologist turned data scientist, building bridges between the two fields to create more personal and intuitive AI systems + data products for all kinds of people 💻
+I'm psychologist turned data scientist, building bridges between the two fields to create more personal and intuitive AI systems + data products for everyone 💻
 
 <!--
 **sebastianmarinc/sebastianmarinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
