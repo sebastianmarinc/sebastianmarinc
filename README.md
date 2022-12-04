@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![seb's github stats](https://github-readme-stats.vercel.app/api?username=sebastianmarinc)](https://github.com/sebastianmarinc/github-readme-stats)
+
+-->
+
+![seb's github stats](https://github-readme-stats.vercel.app/api?username=sebastianmarinc&count_private=true)
