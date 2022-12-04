@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/)
 -->
 
-![Seb's github stats](https://github-readme-stats.vercel.app/api?username=sebastianmarinc&count_private=true&show_icons=true&theme=radical&theme=transparent)
+[![Twitter Badge](https://img.shields.io/badge/-marin343-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marin343)](https://twitter.com/marin343)
+
+![Seb's github stats](https://github-readme-stats.vercel.app/api?username=sebastianmarinc&count_private=true&show_icons=true)
