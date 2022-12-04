@@ -16,6 +16,6 @@ Here are some ideas to get you started:
  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-marin-5a2abb83/)](https://www.linkedin.com/in/sebastian-marin-5a2abb83/)
 -->
 
-[![Twitter Badge](https://img.shields.io/badge/-marin343-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marin343)](https://twitter.com/marin343)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marin343)](https://twitter.com/marin343)
 
 ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=sebastianmarinc&count_private=true&show_icons=true)
