@@ -1,4 +1,4 @@
-## hi, i'm sebastian ("seb") marin - a behavioral data scientist ⚡
+## hi, seb here 😄 i'm a behavioral data scientist in the tech industry ⚡
 
 <!--
 **sebastianmarinc/sebastianmarinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
