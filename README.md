@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marin343)](https://twitter.com/marin343) 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-marin-5a2abb83/)](https://www.linkedin.com/in/sebastian-marin-5a2abb83/)
-[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sebastianmarinc@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:sebastianmarinc@gmail.com)
 
 ![Seb's github stats](https://github-readme-stats.vercel.app/api?username=sebastianmarinc&count_private=true&show_icons=true)
