@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-📫 Here's where you can reach me
+⬇️ Here's where you can reach me
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marin343)](https://twitter.com/marin343) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-marin-5a2abb83/)](https://www.linkedin.com/in/sebastian-marin-5a2abb83/)
