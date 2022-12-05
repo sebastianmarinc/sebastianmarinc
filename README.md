@@ -3,6 +3,7 @@ I'm psychologist turned data scientist, building bridges between the two fields 
 
 ## 👀 What I'm up to 
 Visit my porfolio website for updates, posts, and projects 🌐 
+
 Visit my [public repositories](https://github.com/sebastianmarinc?tab=repositories) to view projects 📂
 
 ## 👨‍🔬 My academic research
