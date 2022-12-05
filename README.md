@@ -1,4 +1,4 @@
-## Hi, Seb here! I'm a behavioral data scientist interested in building better systems and products for everyone 💻
+## Hi, Seb here! I'm a behavioral data scientist interested in developing better systems and products for everyone 💻
 
 👋 I'm psychologist turned data scientist, building bridges between the two fields to create more personal and intuitive AI systems + data products for everyone
 
