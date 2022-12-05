@@ -2,7 +2,7 @@
 
 👋 I'm psychologist turned data scientist, building bridges between the two fields to create more personal and intuitive AI systems + data products for everyone
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rtLB7wkAAAAJ&view_op=list_works&sortby=pubdate)
+👨‍🔬 My research often focuses on: 1) using ML + NLP to make processes/products more efficient; 2) leveraging HCI to make processes/products better for users (papers, presentations)  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rtLB7wkAAAAJ&view_op=list_works&sortby=pubdate)
 
 👇 Here's where you can reach me
 
