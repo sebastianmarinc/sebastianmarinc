@@ -1,13 +1,13 @@
 ## 👋 Hi, Seb here! I'm a data scientist and quantitative behavioral researcher
-I'm psychologist turned data scientist, building bridges between the two fields to create more personal and intuitive AI systems + data products for everyone 💻
+I'm psychologist turned data scientist, building bridges between the two fields to create more powerful systems and intuitive products for everyone 💻
 
 ## 👀 What I'm up to 
-Visit my porfolio website for updates, posts, and projects 🌐 
+Visit my porfolio website for posts and projects on ML, NLP, data wrangling, and behavioral science 🌐 
 
 View some of my [public repositories](https://github.com/sebastianmarinc?tab=repositories) for projects 📂
 
 ## 👨‍🔬 My scientific research
-My research focuses on: 1) using ML + NLP to make processes / products more powerful for users; 2) leveraging HCI to make processes / products more delightful for users [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rtLB7wkAAAAJ&view_op=list_works&sortby=pubdate)
+My research focuses on: 1) using ML + NLP to make processes / products more powerful for users; 2) leveraging HCI to make processes / products more intuitive for users [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rtLB7wkAAAAJ&view_op=list_works&sortby=pubdate)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Sebastian-Marin-6)
 
 ## 💬 How you can reach me 
