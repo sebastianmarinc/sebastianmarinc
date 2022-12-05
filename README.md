@@ -1,4 +1,4 @@
-## Hi, Seb here! I'm a data scientist and social science researcher 💻
+## Hi, Seb here! I'm a data scientist and quantitative behavioral researcher 💻
 
 👋 I'm psychologist turned data scientist, building bridges between the two fields to create more personal and intuitive AI systems + data products for everyone
 
