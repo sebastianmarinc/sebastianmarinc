@@ -4,7 +4,7 @@ I'm psychologist turned data scientist, building bridges between the two fields 
 ## 👀 What I'm up to 
 Visit my porfolio website for updates, posts, and projects 🌐 
 
-Visit my [public repositories](https://github.com/sebastianmarinc?tab=repositories) to view projects 📂
+View some of my [public repositories](https://github.com/sebastianmarinc?tab=repositories) for projects 📂
 
 ## 👨‍🔬 My academic research
 My research focuses on: 1) using ML + NLP to make processes / products more powerful for users; 2) leveraging HCI to make processes / products more delightful for users [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rtLB7wkAAAAJ&view_op=list_works&sortby=pubdate)
