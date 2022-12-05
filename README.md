@@ -2,7 +2,7 @@
 
 👋 I'm psychologist turned data scientist, building bridges between the two fields to create more personal and intuitive AI systems + data products for everyone
 
-[![Google Scholar](https://a11ybadges.com/badge?logo=googlescholar)](https://scholar.google.com/citations?user=rtLB7wkAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=rtLB7wkAAAAJ&hl=en)
 
 👇 Here's where you can reach me
 
