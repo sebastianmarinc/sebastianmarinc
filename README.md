@@ -1,5 +1,5 @@
 ## 👋 Hi, Seb here! I'm a people and data scientist
-I'm a psychologist and data scientist, building bridges between the two fields to create more powerful systems and intuitive products for everyone 💻
+I'm a psychological researcher and data scientist, building bridges between the two fields to create more powerful systems and intuitive products for everyone 💻
 
 ## 👀 What I'm up to 
 Visit my porfolio website for posts and projects on ML, NLP, data wrangling, and behavioral science 🌐 
