@@ -1,4 +1,4 @@
-## 👋 Hi, Seb here! I'm a behavioral and data scientist
+## 👋 Hi, Seb here! I'm a people scientist and data scientist
 I'm a psychological researcher and data scientist, building bridges between the two fields to create more powerful systems and intuitive products for everyone 💻
 
 ## 👀 What I'm up to 
@@ -7,7 +7,7 @@ Visit my porfolio website for posts and projects on ML, NLP, data wrangling, and
 View some of my [public repositories](https://github.com/sebastianmarinc?tab=repositories) for projects 📂
 
 ## 👨‍🔬 My research
-My research focuses on: 1) using ML + NLP to make processes / products more capable for users; 2) leveraging HCI to make processes / products more enjoyable for users [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rtLB7wkAAAAJ&view_op=list_works&sortby=pubdate)
+My research focuses on: 1) using statistical inference and ML/NLP to enhance decision processes and data strategies for talent [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat-square&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rtLB7wkAAAAJ&view_op=list_works&sortby=pubdate)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Sebastian-Marin-6)
 
 ## 💬 How you can reach me 
