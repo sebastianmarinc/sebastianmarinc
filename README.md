@@ -1,4 +1,4 @@
-## 👋 Hi, Seb here! I'm a people scientist and data scientist
+## 👋 Hi, Sebastian here! I'm a people scientist and data scientist
 I'm a psychological researcher and data scientist, building bridges between the two fields to create more powerful systems and intuitive products for everyone 💻
 
 ## 👀 What I'm up to 
